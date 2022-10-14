@@ -1,6 +1,8 @@
 # Table of contents
 
-* [General CRUD operations](README.md)
+## CRUD operations
+
+* [In General](README.md)
 
 ## Authentication
 

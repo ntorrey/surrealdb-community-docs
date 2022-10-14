@@ -16,6 +16,8 @@ _Be careful. If any records in other tables reference records in the table that 
 
 ### Records
 
+#### Add a record with a random id
+
 ```sql
 CREATE users SET name = 'Bob'
 ```

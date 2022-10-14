@@ -10,3 +10,7 @@
 * [4. Tokens](authentication/4.-tokens.md)
 * [5. Auth Variables](authentication/5.-auth-variables.md)
 * [6. Table Permissions](authentication/6.-table-permissions.md)
+
+## Fly.io
+
+* [Running SurrealDB in fly.io](fly.io/running-surrealdb-in-fly.io.md)

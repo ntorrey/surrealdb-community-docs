@@ -14,6 +14,12 @@ REMOVE TABLE users
 
 _Be careful. If any records in other tables reference records in the table that you delete, those references will no longer work._
 
+#### Update all records in a table
+
+```sql
+UPDATE person SET skills += ['breathing'];
+```
+
 ### Records
 
 #### Add a record with a random id

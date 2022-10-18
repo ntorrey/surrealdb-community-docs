@@ -9,3 +9,4 @@
 * [Searching](examples/searching.md)
 * [Order by](examples/order-by.md)
 * [Counting](examples/counting.md)
+* [RELATE](examples/relate.md)

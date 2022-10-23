@@ -10,3 +10,4 @@
 * [Order by](examples/order-by.md)
 * [Counting](examples/counting.md)
 * [RELATE](examples/relate.md)
+* [FETCH](examples/fetch.md)

@@ -39,7 +39,7 @@ CREATE users:abc123 SET name = 'Bill'
 #### Add a record with a specific id with integers or special characters
 
 ```sql
-CREATE users:`456` SET name = 'Bart'ql
+CREATE users:`456` SET name = 'Bart'
 ```
 
 #### Delete a record
@@ -53,3 +53,10 @@ DELETE users:abc123
 ```sql
 UPDATE users:abc123 SET fieldName = None
 ```
+
+#### Delete field from table
+
+```sql
+UPDATE testTable SET fieldName = NONE
+```
+

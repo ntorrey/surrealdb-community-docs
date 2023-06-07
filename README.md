@@ -20,6 +20,10 @@ _Be careful. If any records in other tables reference records in the table that 
 UPDATE person SET skills += ['breathing'];
 ```
 
+```sql
+UPDATE human SET thing = 'yes' WHERE name = 'dude';
+```
+
 ### Records
 
 #### Add a record with a random id
